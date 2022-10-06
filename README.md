@@ -16,7 +16,7 @@
 <!--<a href="https://fb.com/firdavsyusupov.pc.uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="firdavsyusupov.pc.uz" height="30" width="40" /></a>-->
 <a href="https://instagram.com/islom.bek_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firdavsyusupov.uz_official" height="30" width="40" /></a>
 <!--<a href="https://discord.gg/Firdavs_Yusupov#6407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Firdavs_Yusupov#6407" height="30" width="40" /></a>-->
-<a href="https://kaggle.com/https://www.kaggle.com/islom000radjapov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/islom000radjapov" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/islom000radjapov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/islom000radjapov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
