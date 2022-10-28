@@ -8,7 +8,10 @@
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **radjapov_islom@gmail.com**
-
+- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://t.me/IslomRadjapov" target="blank"><img align="center" 
 src="https://camo.githubusercontent.com/9fce5e4d3d626eef4f56b37e2508cbfb2fb09849603ee5dc0bec614a76748d61/68747470733a2f2f6272616e646c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31312f74656c656772616d2d6c6f676f2e706e67" alt="Firdavs Yusupov" height="45" width="40" data-canonical-src="https://brandlogos.net/wp-content/uploads/2021/11/telegram-logo.png" style="max-width: 100%;"></a>
 <a href="https://linkedin.com/in/islom-radjapov-6a7534240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firdavs-yusupov" height="30" width="40" /></a>
 <!--<a href="https://fb.com/firdavsyusupov.pc.uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="firdavsyusupov.pc.uz" height="30" width="40" /></a>-->
