@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Islom Radjapov</h1>
 <img align="center" alt="Coding" src="https://www.lambdatest.com/resources/images/news24.gif">
 <h3 align="center">I am a programmer who loves artificial intelligence</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Islom-Radjapov&label=Profile%20views&color=0e75b6&style=flat" alt="Islom-Radjapov" /> </p>
 - 🌱 I’m currently learning **Data Science and ML | AI**
+
 - 📫 How to reach me **radjapov_islom@mail.ru**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,3 +38,5 @@ src="https://camo.githubusercontent.com/9fce5e4d3d626eef4f56b37e2508cbfb2fb09849
 <!-- #########################################################################################################################################################-->
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Islom-Radjapov&show_icons=true&locale=en" alt="Islom-Radjapov" /></p>
 <p><img align="right" style="background-DimGray;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Islom-Radjapov&show_icons=true&locale=en&layout=compact" alt="Islom-Radjapov" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Islom-Radjapov&label=Profile%20views&color=0e75b6&style=flat" alt="Islom-Radjapov" /> </p>
