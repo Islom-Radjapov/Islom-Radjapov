@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science and ML | AI**
 
-- 📫 How to reach me **radjapov_islom@gmail.com**
+- 📫 How to reach me **radjapov_islom@mail.ru**
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
