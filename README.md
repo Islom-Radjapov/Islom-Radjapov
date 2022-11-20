@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Islom-Radjapov&label=Profile%20views&color=0e75b6&style=flat" alt="Islom-Radjapov" /> </p>
 
 
-- 🌱 I’m currently learning **Data Science and ML|AI**
+- 🌱 I’m currently learning **Data Science and ML | AI**
 
 - 📫 How to reach me **radjapov_islom@gmail.com**
 - 
