@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Islom-Radjapov&label=Profile%20views&color=0e75b6&style=flat" alt="Islom-Radjapov" /> </p>
 <h1 align="center">Hello, I'm Islom Radjapov</h1>
-<img align="center" alt="Coding" src="https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif">
+<img align="center" alt="Coding" src="https://github.com/Islom-Radjapov/Islom-Radjapov/blob/main/deepLearning1.jpg">
 <h3 align="center">I am a programmer who loves artificial intelligence</h3>
 
 - 🌱 I’m currently learning **Data Science and ML | AI**
