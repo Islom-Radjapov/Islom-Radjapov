@@ -4,8 +4,7 @@
 <h3 align="center">I am a programmer who loves artificial intelligence</h3>
 
 - 🌱 I’m currently learning **Data Science and ML | AI**
-
-- 📫 How to reach me **radjapov_islom@mail.ru**
+- 💬 Ask me about: [Telegram](https://t.me/IslomRadjapov)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,5 +39,5 @@ src="https://camo.githubusercontent.com/9fce5e4d3d626eef4f56b37e2508cbfb2fb09849
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <!-- #########################################################################################################################################################-->
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Islom-Radjapov&show_icons=true&locale=en" alt="Islom-Radjapov" /></p>
+![Github stats](https://github-readme-stats.vercel.app/api?username=abd1bayev&theme=highcontrast&show_icons=true&count_private=true)<img align="100" src="https://github-readme-streak-stats.herokuapp.com/?user=abd1bayev" alt="abd1bayev" />
 <p><img align="right" style="background-DimGray;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Islom-Radjapov&show_icons=true&locale=en&layout=compact" alt="Islom-Radjapov" /></p>
