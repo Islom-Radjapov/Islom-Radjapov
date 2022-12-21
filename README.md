@@ -48,4 +48,4 @@ src="https://camo.githubusercontent.com/9fce5e4d3d626eef4f56b37e2508cbfb2fb09849
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Islom-Radjapov&theme=highcontrast&show_icons=true&count_private=true)
 <!--<img align="100" src="https://github-readme-streak-stats.herokuapp.com/?user=Islom-Radjapov" alt="Islom-Radjapov" /> -->
 
-<p><img align="right" style="background-DarkSlateGray;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Islom-Radjapov&show_icons=true&locale=en&layout=compact" alt="Islom-Radjapov" /></p>
+<p><img align="left" style="background-DarkSlateGray;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Islom-Radjapov&show_icons=true&locale=en&layout=compact" alt="Islom-Radjapov" /></p>
