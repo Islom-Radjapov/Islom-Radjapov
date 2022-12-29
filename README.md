@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Islom-Radjapov&label=Profile%20views&color=0e75b6&style=flat" alt="Islom-Radjapov" /> </p>
 <h1 align="center">Hello, I'm Islom Radjapov</h1>
-<!--<img align="center" alt="Coding" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-820943,resizemode-1,msid-80218989/prime/technology-and-startups/fiveways-to-make-ai-a-greater-force-for-good-despite-big-techs-excessive-control-over-its-future.jpg">-->
+<!-- <img align="center" alt="Coding" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-820943,resizemode-1,msid-80218989/prime/technology-and-startups/fiveways-to-make-ai-a-greater-force-for-good-despite-big-techs-excessive-control-over-its-future.jpg">-->
 <h3 align="center">I am a programmer who loves artificial intelligence</h3>
 
 - 🌱 I’m currently learning **Data Science and ML | AI**
@@ -12,7 +12,7 @@
 <a href="https://instagram.com/islom.bek_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="islom.bek_" height="30" width="40" /></a>
 <a href="https://t.me/IslomRadjapov" target="blank"><img align="center" 
 src="https://camo.githubusercontent.com/9fce5e4d3d626eef4f56b37e2508cbfb2fb09849603ee5dc0bec614a76748d61/68747470733a2f2f6272616e646c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31312f74656c656772616d2d6c6f676f2e706e67" alt="Islom-Radjapov" height="45" width="40" data-canonical-src="https://brandlogos.net/wp-content/uploads/2021/11/telegram-logo.png" style="max-width: 100%;"></a>
-<!-- ####################################################################################################################################################### -->
+<!--  ####################################################################################################################################################### -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
