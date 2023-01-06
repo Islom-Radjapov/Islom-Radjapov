@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Islom-Radjapov&label=Profile%20views&color=0e75b6&style=flat" alt="Islom-Radjapov" /> </p>
 <h1 align="center">Hello, I'm Islom Radjapov</h1>
-<!--   <img align="center" alt="Coding" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-820943,resizemode-1,msid-80218989/prime/technology-and-startups/fiveways-to-make-ai-a-greater-force-for-good-despite-big-techs-excessive-control-over-its-future.jpg">-->
+<!-- <img align="center" alt="Coding" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-820943,resizemode-1,msid-80218989/prime/technology-and-startups/fiveways-to-make-ai-a-greater-force-for-good-despite-big-techs-excessive-control-over-its-future.jpg">-->
 <h3 align="center">I am a programmer who loves artificial intelligence</h3>
 
 - 🌱 I’m currently learning **Data Science and ML | AI**
