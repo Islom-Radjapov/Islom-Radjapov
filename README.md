@@ -4,7 +4,7 @@
 <h3 align="center">I am a programmer who loves artificial intelligence</h3>
 
 - 🌱 I’m currently learning **Data Science and ML | AI**
-- 💬 Ask me about: <a href="https://t.me/IslomRadjapov"><img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"> Click</a></br>
+- 💬 Ask me about: <a href="https://t.me/IslomRadjapov"><img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"> Send</a></br>
 <!--<img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/> [Channel](https://t.me/django_tutor)</br>         [Telegram](https://t.me/IslomRadjapov)
 
 <h3 align="left">Connect with me:</h3>
